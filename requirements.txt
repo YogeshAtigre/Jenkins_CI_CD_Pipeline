@@ -1,0 +1,3 @@
+Flask==2.2.3          # Flask framework for the web application
+pytest==7.2.2         # Pytest for running unit tests
+virtualenv==20.21.0   # Virtual environment manager
