@@ -72,7 +72,7 @@ cd flask-app
 
 ## **Step 4: Create a Jenkins Pipeline**
 ### **4.1 Create a Jenkinsfile**
-Inside your Flask app repository, create a `Jenkinsfile` (code shared in the repo):
+Inside your Flask app repository, create a `Jenkinsfile` (sample code shared in the repo)
 ---
 
 ## **Step 5: Configure Jenkins Pipeline Job**
